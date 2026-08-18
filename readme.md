@@ -1,6 +1,4 @@
-# Git course
+# Git Course
 This is a complete git course
 
-
-# this is bug branchh
-# kk23 
+# This is from Bug branch
